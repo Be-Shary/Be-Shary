@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Be-Shary
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning c# and arduino
+- 👀 I’m interested in programing (python and c#)
+- 🌱 I’m love arduino projects
 
 
 <!---
